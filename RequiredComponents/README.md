@@ -32,4 +32,4 @@
 [view](https://robu.in/product/l298n-dual-h-bridge-dc-stepper-motor-driver-controller-module/)
 
 ## The Robot Design is porvided in design part
-//[Click Here](https://github.com/harshthorwat/LawnMover/tree/master/Robot%20Design)
+<!--[Click Here](https://github.com/harshthorwat/LawnMover/tree/master/Robot%20Design)-->
