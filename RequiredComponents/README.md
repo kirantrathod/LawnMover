@@ -31,5 +31,5 @@
 10. L298 Motor driver (Quantity 1) 
 [view](https://robu.in/product/l298n-dual-h-bridge-dc-stepper-motor-driver-controller-module/)
 
-### The Robot Design is porvided in design part  
+## The Robot Design is porvided in design part
 [Click Here](https://github.com/harshthorwat/LawnMover/tree/master/Robot%20Design)
